@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Saki',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'hypo meaning low',
 
   // social usernames (optional)
   //twitter: 'null',
