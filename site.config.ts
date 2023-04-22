@@ -17,7 +17,7 @@ export default siteConfig({
   description: 'hypo meaning low',
 
   // social usernames (optional)
-  //twitter: 'null',
+  twitter: 'null',
   //github: 'null',
   //linkedin: 'null',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
